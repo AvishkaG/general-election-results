@@ -1,0 +1,125 @@
+.app-bar {
+  padding: 12px;
+}
+
+.card {
+  /* min-height: 50vh; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  border-radius: 8px;
+  padding: 24px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.centered-text {
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 5vh;
+  color: white;
+  font-weight: 700;
+  z-index: 2;
+}
+
+.flex-column-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  column-gap: 1vw;
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+}
+
+.fade-bottom {
+  /* position: relative; */
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  text-shadow: rgb(124, 123, 123) 1px 0 10px;
+}
+
+.released {
+  padding-bottom: 20px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.fade-bottom img {
+  margin: auto;
+  height: 20vh;
+  object-fit: cover;
+  display: block;
+  mask-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 1) 70%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  mask-size: cover;
+  mask-repeat: no-repeat;
+}
+
+.candi-name {
+  height: 60px;
+}
+
+.discard {
+  box-shadow: 0px 2px 8px 5px #00000014;
+  background-color: white;
+  border-radius: 4px;
+  padding: 16px;
+  margin-bottom: 20px;
+}
+
+.distitle {
+  font-size: 18px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  column-gap: 6px;
+}
+
+.diviTopic {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.divi-card {
+  padding: 16px;
+  box-shadow: 0px 2px 8px 2px #00000014;
+  background-color: white;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.divi-name {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  padding-bottom: 10px;
+}
+.divi-total {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  margin: 15px auto;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.footer p {
+  margin: 0;
+}

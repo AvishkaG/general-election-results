@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/general-election/static/css/main.264e40a1.css",
+    "main.js": "/general-election/static/js/main.64d627e7.js",
+    "static/js/453.66fa8fa6.chunk.js": "/general-election/static/js/453.66fa8fa6.chunk.js",
+    "static/media/Inter.ttf": "/general-election/static/media/Inter.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/Flag_of_Sri_Lanka.svg.png": "/general-election/static/media/Flag_of_Sri_Lanka.svg.989a18a797d1850454c2.png",
+    "index.html": "/general-election/index.html",
+    "main.264e40a1.css.map": "/general-election/static/css/main.264e40a1.css.map",
+    "main.64d627e7.js.map": "/general-election/static/js/main.64d627e7.js.map",
+    "453.66fa8fa6.chunk.js.map": "/general-election/static/js/453.66fa8fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264e40a1.css",
+    "static/js/main.64d627e7.js"
+  ]
+}

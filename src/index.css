@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Inter";
+  src: url("./assets//Inter.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
