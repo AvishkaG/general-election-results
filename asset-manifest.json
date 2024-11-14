@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/general-election-results/static/css/main.03324929.css",
-    "main.js": "/general-election-results/static/js/main.8babd974.js",
+    "main.js": "/general-election-results/static/js/main.ed71f6d1.js",
     "static/js/453.66fa8fa6.chunk.js": "/general-election-results/static/js/453.66fa8fa6.chunk.js",
     "static/media/Inter.ttf": "/general-election-results/static/media/Inter.e05c5f3d1fa6a3893d84.ttf",
     "static/media/Flag_of_Sri_Lanka.svg.png": "/general-election-results/static/media/Flag_of_Sri_Lanka.svg.989a18a797d1850454c2.png",
     "index.html": "/general-election-results/index.html",
     "main.03324929.css.map": "/general-election-results/static/css/main.03324929.css.map",
-    "main.8babd974.js.map": "/general-election-results/static/js/main.8babd974.js.map",
+    "main.ed71f6d1.js.map": "/general-election-results/static/js/main.ed71f6d1.js.map",
     "453.66fa8fa6.chunk.js.map": "/general-election-results/static/js/453.66fa8fa6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03324929.css",
-    "static/js/main.8babd974.js"
+    "static/js/main.ed71f6d1.js"
   ]
 }
